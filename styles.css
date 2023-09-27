@@ -7,8 +7,8 @@ body, h1, h2, h3, p {
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: white;
+    color: black;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -45,8 +45,8 @@ main {
     padding: 20px;
 }
 body h1{
-    background-color: #fff;
-    border: 1px solid #ddd;
+    background-color: grey;
+    border: 1px solid ;
     padding: 20px;
     margin-bottom: 20px;
 }
@@ -61,8 +61,8 @@ article p {
 
 
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: black;
+    color: white;
     text-align: center;
     padding: 10px;
 }
